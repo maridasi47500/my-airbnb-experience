@@ -9,4 +9,5 @@
 - decouvert ai
 - fais des pexériences avec l'AI,  le chatbot
 - 
-- for the user to access digital id, user use user's digital id
+- For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
+- 
