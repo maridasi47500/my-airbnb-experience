@@ -20,6 +20,7 @@ Ce projet ne traite pas de :
 - Publication ou partage d’informations personnelles sensibles ou de situations précises évoquées ci-dessus.
 
 
-- decouvert ai
-- interagit avec l’IA et explore différentes identités ou expériences numériques
-  
+- decouvert nouvelle ai / aimer AI
+- cherche dans l'AI, share about AI
+- spend time in city
+
