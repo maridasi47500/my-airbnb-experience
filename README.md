@@ -25,4 +25,7 @@ Ce projet ne traite pas de :
 - Découverte et usages innovants de l’IA
 
 - spend time outside, mood and musical activities
-- 
+- voir l'IA est dificile
+- quitter l'IA pour d'autre projet avec son id numerique
+- etre dans la competition
+- technologies futures qui ne sont pas l'IA
