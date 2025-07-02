@@ -11,7 +11,13 @@
 - 
 - For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
 - 
-- peut pas poster : ai airbnb experience , and home, bouelde crystal, instrument musiques, bank, identity, photo indoors, photo outdoors, photo in city, people have job, conversation cities, networking, new town , relation, AI, pas doppelganger ai, pas job hacker, pas ai job, foyer, future job, prend avion, va au music/sport club, va a disco , va a music band, pas dans ce repository
+- Cette personne possède de nombreux éléments (expériences, objets, identités, photos, etc.), mais elle ne peut pas tout publier dans ce projet.
+- Non publiable dans ce repository :
+- Expériences avec l’AI Airbnb, lieux de vie (home, bouelde crystal), instruments de musique, banques, identité, photos (intérieur, extérieur, en ville), métiers, conversations sur les villes, networking, arrivée dans une nouvelle ville, relations, expériences AI, doppelganger AI, métiers de hacker ou d’AI, foyer, futurs emplois, prise d’avion, sorties dans des clubs de musique ou de sport, disco, groupes de musique, etc.
+Ce projet ne traite pas de :
+- Usurpation/double numérique (“doppelganger AI”)
+- Métier de hacker ou d’intelligence artificielle (“ai job”)
+- Publication ou partage d’informations personnelles sensibles ou de situations précises évoquées ci-dessus.
 
 
 - decouvert ai
