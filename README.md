@@ -29,3 +29,15 @@ Ce projet ne traite pas de :
 - quitter l'IA pour d'autre projet avec son id numerique
 - etre dans la competition
 - technologies futures qui ne sont pas l'IA
+- Problèmes avec l’IA (Intelligence Artificielle) :
+- Biais algorithmiques : L’IA peut reproduire ou amplifier des préjugés présents dans les données d’entraînement.
+- Manque de transparence : Les systèmes d’IA, notamment les réseaux de neurones profonds, sont souvent perçus comme des « boîtes noires » difficiles à expliquer.
+- Respect de la vie privée : L’IA peut traiter des données sensibles, posant des risques pour la confidentialité.
+- Erreurs d’interprétation : L’IA peut mal comprendre des situations complexes ou nuancées.
+- Dépendance technologique : Trop s’appuyer sur l’IA peut réduire l’autonomie humaine.
+- Problèmes avec d’autres technologies (qui ne sont pas l’IA) :
+- Sécurité : Les systèmes informatiques classiques peuvent être vulnérables aux cyberattaques (virus, ransomwares, etc.).
+- Compatibilité : Certains logiciels ou matériels ne fonctionnent pas ensemble, causant des difficultés d’intégration.
+- Maintenance : Les technologies évoluent et nécessitent des mises à jour et de l’entretien régulier.
+- Accessibilité : Certaines technologies ne sont pas adaptées à tous les publics (personnes en situation de handicap, zones mal desservies, etc.).
+- Obsolescence : Les appareils et logiciels deviennent rapidement dépassés.
