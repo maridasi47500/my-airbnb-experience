@@ -24,5 +24,5 @@ Ce projet ne traite pas de :
 - spend time in city
 - Découverte et usages innovants de l’IA
 
-- spend time outside, mood is like weather 
+- spend time outside, mood and musical activities
 - 
