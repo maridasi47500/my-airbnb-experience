@@ -21,3 +21,5 @@ Ce projet ne traite pas de :
 
 
 - decouvert ai
+- interagit avec l’IA et explore différentes identités ou expériences numériques
+  
