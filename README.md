@@ -11,7 +11,7 @@
 - 
 - For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
 - 
-- peut pas poster : ai airbnb experience , and home, bouelde crystal, instrument musiques, bank, identity, photo indoors, photo outdoors, photo in city, people have job, conversation cities, networking, new town , relation, AI, pas doppelganger ai, pas job hacker, pas ai job, foyer, future job, pas dans ce repository
+- peut pas poster : ai airbnb experience , and home, bouelde crystal, instrument musiques, bank, identity, photo indoors, photo outdoors, photo in city, people have job, conversation cities, networking, new town , relation, AI, pas doppelganger ai, pas job hacker, pas ai job, foyer, future job, prend avion, va au music/sport club, va a disco , va a music band, pas dans ce repository
+
 
 - decouvert ai
-- prend avion, va au music/sport club, va a disco , va a music band , time traveler avec un gps
