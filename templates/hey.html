@@ -1,0 +1,237 @@
+<h1># my-airbnb-experience</h1>
+<style>
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+background-image: url(".https://assets.codepen.io/285131/colorbgjpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.iphone {
+  box-shadow: inset 0 0 3px 0 rgba(0,0,0,0.2), 0 0 0 1px #999, 0 0 30px 0px rgba(0,0,0,0.7);
+  border: 5px solid #d9dbdc;
+  background: #f8f8f8;
+  padding: 15px;
+  border-radius: 50px;
+  height: 877px;
+  width: 423px;
+  position: relative;
+  margin: 30px auto;  
+  // Scale so that the iPhone fits in view
+  transform: scale(.8);
+}
+
+.iphone-top {
+  padding: 5px 110px 40px;
+  position: relative; 
+  .speaker {
+    display: block;
+    width: 70px;
+    height: 6px;
+    margin: 0 auto;
+    border-radius: 6px;
+    background: #292728;
+  }
+  
+  .camera {
+    display: block;
+    margin: 0 auto;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin-bottom: 13px;
+    background: #333;
+  }
+  
+  .sensor {
+    display: block;
+    width: 15px;
+    height: 15px;
+    float: left;
+    background: #333;
+    margin-top: -5px;
+    border-radius: 50%;
+  }
+}
+
+.top-bar, .bottom-bar {
+  display: block;
+  width: 423px;
+  height: 15px;
+  border: {
+    left: 5px solid #BBB;
+    right: 5px solid #BBB;
+  }
+  position: absolute;
+  left: -5px;
+}
+.top-bar {
+  top: 65px;
+}
+
+.bottom-bar {
+  bottom: 65px;
+}
+
+.iphone-screen {
+  background: #eee;
+  border: 1px solid #fff;
+  height: 677px;
+  width: 375px;
+  margin: 0 auto;
+  border: 2px solid rgba(0,0,0,0.9);
+  border-radius: 3px;
+  overflow: hidden;
+background-image: url("https://thumbs.dreamstime.com/b/fille-heureuse-d-afro-am%C3%A9ricain-de-m%C3%A9tis-30992502.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  img {
+    width: 100%;
+  }
+}
+
+.buttons {
+  .on-off, .up, .down, .sleep {
+    display: block;
+    background: #CCC;
+    position: absolute;
+    border-radius: 2px 0px 0px 2px;
+  }
+  .on-off {
+    height: 40px;
+    width: 3px;
+    top: 100px;
+    left: -8px;
+  }
+  
+  .up, .down, .sleep {
+    height: 60px;
+    width: 5px;
+    left: -10px;
+  }
+  
+  .up {
+    top: 170px;
+  }
+  
+  .down {
+    top: 250px;
+  }
+  
+  .sleep {
+    left: auto;
+    right: -10px;
+    top: 170px;    
+    border-radius: 0px 2px 2px 0px;
+  }
+}
+
+.iphone-bottom {
+  padding: 10px 0 0;
+  span {
+    display: block;
+    margin: 0 auto;
+    width: 68px;
+    height: 68px;
+    background: #ccc;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #303233 0%, #b5b7b9 50%, #f0f2f2 69%, #303233 100%);
+    position: relative;
+    &:after {
+      content: ""; 
+      display: block;
+      width: 60px;
+      height: 60px;
+      background: #fff;
+      border-radius: 50%;
+      position: absolute;
+      left: 4px;
+      top: 4px;
+    }
+  }
+}
+</style>
+<div class="iphone">
+    <div class="iphone-top">
+      <span class="camera"></span>
+      <span class="sensor"></span>
+      <span class="speaker"></span>
+    </div>
+    <div class="top-bar"></div>
+    <div class="iphone-screen">
+    </div>
+    <div class="buttons">
+      <span class="on-off"></span>
+      <span class="sleep"></span>
+      <span class="up"></span>
+      <span class="down"></span>
+    </div>
+    <div class="bottom-bar"></div>
+    <div class="iphone-bottom">
+      <span></span>
+    </div>
+  </div>
+</div>
+<p>donne le nom d'un logement airbnb <input /></p>
+<p>donne le nom de ton job <input /></p>
+<p>donne le nom de tes hobys (voyageuse/eur, sport, etc) <input /></p>
+<p>
+coche la case si tu souahites du essayer des IA/
+
+faire des pexériences avec l'AI, les chatbots
+<input type="checkbox"/>
+
+</p>
+<p>
+ecris une hsitoire sur une IA qui essaye d'aimer/d'apprendre à aimer, et si ca semble difficile 
+<textarea>
+</textarea>
+</p>
+<p>
+coche la case ci dessous si tu aimes l'IA/ si l'IA te passionne/fascine / t'interesse 
+<input type="checkbox"/>
+</p>
+<p>
+choisis une option sur vos projets futurs
+<select>
+
+
+<option>cherche dans l'AI, share about AI</option>
+<option>spend time in city</option>
+<option>Découverte et usages innovants de l’IA</option>
+<option>spend time outside, mood and musical activities</option>
+<option>voir que l'IA est difficilr et quitter l'IA pour d'autre projet avec son id numerique</option>
+<option>etre dans la competition</option>
+<option>technologies futures qui ne sont pas l'IA</option>
+</select>
+</p>
+<h2>formulaire pour quitter l'IA</h2>
+<p>
+ecris pourquoi ne plus aller voir l'IA
+<textarea>
+Problèmes avec l’IA (Intelligence Artificielle) :
+
+    Biais algorithmiques : L’IA peut reproduire ou amplifier des préjugés présents dans les données d’entraînement.
+    Manque de transparence : Les systèmes d’IA, notamment les réseaux de neurones profonds, sont souvent perçus comme des « boîtes noires » difficiles à expliquer.
+    Respect de la vie privée : L’IA peut traiter des données sensibles, posant des risques pour la confidentialité.
+    Erreurs d’interprétation : L’IA peut mal comprendre des situations complexes ou nuancées.
+    Dépendance technologique : Trop s’appuyer sur l’IA peut réduire l’autonomie humaine.
+
+</textarea>
+
+</p>
+<p>ecris d'autres details
+<textarea>
+Problèmes avec d’autres technologies (qui ne sont pas l’IA) :
+
+    Sécurité : Les systèmes informatiques classiques peuvent être vulnérables aux cyberattaques (virus, ransomwares, etc.).
+    Compatibilité : Certains logiciels ou matériels ne fonctionnent pas ensemble, causant des difficultés d’intégration.
+    Maintenance : Les technologies évoluent et nécessitent des mises à jour et de l’entretien régulier.
+    Accessibilité : Certaines technologies ne sont pas adaptées à tous les publics (personnes en situation de handicap, zones mal desservies, etc.).
+    Obsolescence : Les appareils et logiciels deviennent rapidement dépassés.
+</textarea>
+
+</p>
