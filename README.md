@@ -12,6 +12,7 @@ Annonce:
 > Tu arrives dans une nouvelle ville, tu as ton job de voyageur/musicien/sportif. L'appart est ta base: photos intérieur/extérieur, instruments, mood musical.
 
 Ce que tu mets dedans:
+- une boule de Crystal 
 - Le vrai poster + iPhone CSS au mur (ta pièce unique)
 - Un coin `spend time outside, mood and musical activities`
 - QR code = digital authentication pour accéder au wifi / guide de la ville
@@ -27,7 +28,7 @@ Déroulé 2h:
 
 C'est innovant, ça ne partage aucune info sensible réelle, et ça pose la vraie question: quitter l'IA pour un autre projet avec son ID numérique.
 
-Tu veux que je t'écrive l'annonce complète Airbnb prête à copier-coller pour le logement + l'expérience ?
+
 
 - poster photo et un iphone au dessus (un dessin de css) pour fiare comme si je suis qui ? la photo est numerique
 - Display a digital photo of a person  as a poster
