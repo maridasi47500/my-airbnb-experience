@@ -1,0 +1,3 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldphotopic">pic</label><input type="file" id="somefieldphotopic" name="pic"/></div>
+<div class="field"><label for="somefieldphotodescription">description</label><input type="text" id="somefieldphotodescription" name="description"/></div><div class="actions"><input type="submit"/></div></form>{% for x in photos %}{{x["pic"] }}{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_photo"> add one photo</a>{% endblock %}

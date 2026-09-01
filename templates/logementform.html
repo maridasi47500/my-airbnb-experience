@@ -1,0 +1,7 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldlogementtitre">titre</label><input type="text" id="somefieldlogementtitre" name="titre"/></div>
+<div class="field"><label for="somefieldlogementdescription">description</label><input type="text" id="somefieldlogementdescription" name="description"/></div>
+<div class="field"><label for="somefieldcity_id">city_id</label><select id="somefieldcity_id" name="city_id"><option value="novalue">no value</option>
+{% for somecity in touslescity %}
+<option value="{{ somecity['id'] }}">{{ somecity['name'] }}</option>{% endfor %}
+</select></div><div class="actions"><input type="submit"/></div></form>{% for x in logements %}{{x["titre"] }}{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_logement"> add one logement</a>{% endblock %}

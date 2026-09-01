@@ -1,0 +1,4 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldposter_photo_numeriquepic">pic</label><input type="text" id="somefieldposter_photo_numeriquepic" name="pic"/></div>
+<div class="field"><label for="somefieldposter_photo_numeriqueuser_id">user_id</label><input type="text" id="somefieldposter_photo_numeriqueuser_id" name="user_id"/></div>
+<div class="field"><label for="somefieldposter_photo_numeriqueiphone_css_overlay">iphone_css_overlay</label><input type="text" id="somefieldposter_photo_numeriqueiphone_css_overlay" name="iphone_css_overlay"/></div><div class="actions"><input type="submit"/></div></form>{% for x in poster_photo_numeriques %}{{x["pic"] }}{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_poster_photo_numerique"> add one poster_photo_numerique</a>{% endblock %}

@@ -1,0 +1,8 @@
+{% extends 'base.html' %}{% block content %}<form  enctype="multipart/form-data" method="POST">
+<div class="field"><label for="somefieldexperience_decouverte_ia_id">experience_decouverte_ia_id</label><select id="somefieldexperience_decouverte_ia_id" name="experience_decouverte_ia_id"><option value="novalue">no value</option>
+{% for someexperience_decouverte_ia in touslesexperience_decouverte_ia %}
+<option value="{{ someexperience_decouverte_ia['id'] }}">{{ someexperience_decouverte_ia['name'] }}</option>{% endfor %}
+</select></div>
+<div class="field"><label for="somefieldspend_time_cityoutdoor_activity_id">outdoor_activity_id</label><input type="text" id="somefieldspend_time_cityoutdoor_activity_id" name="outdoor_activity_id"/></div>
+<div class="field"><label for="somefieldspend_time_cityuser_id">user_id</label><input type="text" id="somefieldspend_time_cityuser_id" name="user_id"/></div>
+<div class="field"><label for="somefieldspend_time_citytest_identite_description">test_identite_description</label><input type="text" id="somefieldspend_time_citytest_identite_description" name="test_identite_description"/></div><div class="actions"><input type="submit"/></div></form>{% for x in spend_time_citys %}{{x["experience_decouverte_ia_id"] }}{% endfor %}{% endblock %}{% block liens %}<a href="/">bienvenue</a><a href="/add_one_spend_time_city"> add one spend_time_city</a>{% endblock %}
